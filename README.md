@@ -1,6 +1,6 @@
 # bouncingBalls
 
-<a href="https://codepen.io/dukies_2000/pen/qjXNOG?editors=0011">View</a> at: https://codepen.io/dukies_2000/pen/qjXNOG?editors=0011
+<a href="https://rawgit.com/stephenjukes/bouncingBalls/master/index.html">View here in browser</a>
 
 "You know, for kids" (The Hudsucker Proxy)
 
