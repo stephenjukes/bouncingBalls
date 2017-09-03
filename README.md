@@ -1,6 +1,6 @@
 # bouncingBalls
 
-View at: https://codepen.io/dukies_2000/pen/qjXNOG?editors=0011
+<a href="https://codepen.io/dukies_2000/pen/qjXNOG?editors=0011">View</a> at: https://codepen.io/dukies_2000/pen/qjXNOG?editors=0011
 
 "You know, for kids" (The Hudsucker Proxy)
 
