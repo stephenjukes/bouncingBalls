@@ -1,6 +1,6 @@
 # bouncingBalls
 
-<a href="https://rawgit.com/stephenjukes/bouncingBalls/master/index.html">View here in browser</a>
+<a href="https://stephenjukes.github.io/bouncingBalls/">View here in browser</a>
 
 "You know, for kids" (The Hudsucker Proxy)
 
